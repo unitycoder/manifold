@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['samples_0',['Samples',['../group___samples.html',1,'']]],
+  ['scale_1',['Scale',['../structmanifold_1_1_box.html#af3e725a4539cd6b9e8ee26467375f80d',1,'manifold::Box']]],
+  ['scallop_2',['Scallop',['../group___samples.html#ga45f5b5c2a374a8c67d9208a2bf9acc36',1,'manifold']]],
+  ['setasoriginal_3',['SetAsOriginal',['../classmanifold_1_1_manifold.html#a5def23ad81888a98c1ea17bf886e79fc',1,'manifold::Manifold']]],
+  ['setprecision_4',['SetPrecision',['../structmanifold_1_1_manifold_1_1_impl.html#a32981853ceaf771ca541df5b5c6e085b',1,'manifold::Manifold::Impl']]],
+  ['sind_5',['sind',['../group___connections.html#gaf4b838085f4c585ee741594620e959d1',1,'manifold']]],
+  ['size_6',['Size',['../structmanifold_1_1_box.html#ae5f4259237c2b8a90ac173f5301ecf86',1,'manifold::Box']]],
+  ['smoothness_7',['Smoothness',['../group___connections.html#structmanifold_1_1_smoothness',1,'manifold']]],
+  ['sortfaces_8',['SortFaces',['../structmanifold_1_1_manifold_1_1_impl.html#a3347c75f8f2b6fcd0b156327ee63e444',1,'manifold::Manifold::Impl']]],
+  ['sortverts_9',['SortVerts',['../structmanifold_1_1_manifold_1_1_impl.html#a960f240018111751cf0a91339a1d1b08',1,'manifold::Manifold::Impl']]],
+  ['sparseindices_10',['SparseIndices',['../classmanifold_1_1_sparse_indices.html',1,'manifold']]],
+  ['sphere_11',['Sphere',['../classmanifold_1_1_manifold.html#a1fa0a21aed71099905b89a10bcde0539',1,'manifold::Manifold']]],
+  ['split_12',['Split',['../classmanifold_1_1_manifold.html#a60e241b8a56d334b3d2d3dbd2fc808ba',1,'manifold::Manifold']]],
+  ['splitbyplane_13',['SplitByPlane',['../classmanifold_1_1_manifold.html#adc134d7a6dfbf8c74e5d531bbeb330cb',1,'manifold::Manifold']]],
+  ['stretchybracelet_14',['StretchyBracelet',['../group___samples.html#gaa093ef8b44f049141ccbaca556f88cd3',1,'manifold']]],
+  ['stride_5ffunctor_15',['stride_functor',['../structmanifold_1_1strided__range_1_1stride__functor.html',1,'manifold::strided_range']]],
+  ['strided_5frange_16',['strided_range',['../classmanifold_1_1strided__range.html',1,'manifold']]],
+  ['subdivide_17',['Subdivide',['../structmanifold_1_1_manifold_1_1_impl.html#a1b76cf1ff4735b2f5df332ea3829861e',1,'manifold::Manifold::Impl']]]
+];

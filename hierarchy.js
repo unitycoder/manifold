@@ -1,0 +1,46 @@
+var hierarchy =
+[
+    [ "BaryRef", "group___connections.html#structmanifold_1_1_bary_ref", null ],
+    [ "Boolean3", "classmanifold_1_1_boolean3.html", null ],
+    [ "Box", "structmanifold_1_1_box.html", null ],
+    [ "Collider", "classmanifold_1_1_collider.html", null ],
+    [ "Curvature", "group___connections.html#structmanifold_1_1_curvature", null ],
+    [ "ExecutionParams", "group___private.html#structmanifold_1_1_execution_params", null ],
+    [ "ExportOptions", "group___connections.html#structmanifold_1_1_export_options", null ],
+    [ "SparseIndices::firstNonFinite< T >", "structmanifold_1_1_sparse_indices_1_1first_non_finite.html", null ],
+    [ "SparseIndices::firstZero", "structmanifold_1_1_sparse_indices_1_1first_zero.html", null ],
+    [ "Halfedge", "structmanifold_1_1_halfedge.html", null ],
+    [ "Halfedge2Tmp", "structmanifold_1_1_halfedge2_tmp.html", null ],
+    [ "Manifold::Impl", "structmanifold_1_1_manifold_1_1_impl.html", null ],
+    [ "Manifold", "classmanifold_1_1_manifold.html", null ],
+    [ "Material", "group___connections.html#structmanifold_1_1_material", null ],
+    [ "Mesh", "group___connections.html#structmanifold_1_1_mesh", null ],
+    [ "MeshRelation", "structmanifold_1_1_mesh_relation.html", null ],
+    [ "Manifold::Impl::MeshRelationD", "structmanifold_1_1_manifold_1_1_impl.html#structmanifold_1_1_manifold_1_1_impl_1_1_mesh_relation_d", null ],
+    [ "PolyVert", "group___connections.html#structmanifold_1_1_poly_vert", null ],
+    [ "Properties", "group___connections.html#structmanifold_1_1_properties", null ],
+    [ "ReindexEdge", "structmanifold_1_1_reindex_edge.html", null ],
+    [ "runtime_error", null, [
+      [ "geometryErr", "structmanifold_1_1geometry_err.html", null ],
+      [ "topologyErr", "structmanifold_1_1topology_err.html", null ],
+      [ "userErr", "structmanifold_1_1user_err.html", null ]
+    ] ],
+    [ "Smoothness", "group___connections.html#structmanifold_1_1_smoothness", null ],
+    [ "SparseIndices", "classmanifold_1_1_sparse_indices.html", null ],
+    [ "strided_range< Iterator >", "classmanifold_1_1strided__range.html", null ],
+    [ "Timer", "structmanifold_1_1_timer.html", null ],
+    [ "TmpEdge", "structmanifold_1_1_tmp_edge.html", null ],
+    [ "TmpInvalid", "structmanifold_1_1_tmp_invalid.html", null ],
+    [ "unary_function", null, [
+      [ "strided_range< Iterator >::stride_functor", "structmanifold_1_1strided__range_1_1stride__functor.html", null ]
+    ] ],
+    [ "VecD< T >", "classmanifold_1_1_vec_d.html", null ],
+    [ "VecDH< T >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< glm::vec3 >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< glm::vec4 >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< int >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< manifold::BaryRef >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< manifold::Box >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< manifold::Halfedge >", "classmanifold_1_1_vec_d_h.html", null ],
+    [ "VecDH< thrust::pair< int, int > >", "classmanifold_1_1_vec_d_h.html", null ]
+];
